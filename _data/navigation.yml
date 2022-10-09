@@ -6,6 +6,9 @@ main:
   - title: "Publications"
     url: /publications/
     
+  - title: "Presentations & Talks"
+    url: /presentations_and_talks/
+    
   - title: "Academic Service"
     url: /academic_service/
 
