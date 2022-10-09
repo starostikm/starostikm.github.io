@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : 
+title                    : "Margaret R. Starostik"
 title_separator          : "-"
-name                     : &name "Margaret R. Starostik"
-description              : &description "Ph.D. candidate in Cellular, Molecular, and Developmental Biology at Johns Hopkins University"
+name                     : &name 
+description              : &description 
 url                      : https://starostikm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "starostikm/starostikm.github.io"
@@ -82,9 +82,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Margaret R. Starostik"
+  name             : 
   avatar           : "profile.png"
-  bio              : "Data Scientist"
+  bio              : "Ph.D. candidate in Cellular, Molecular, and Developmental Biology at Johns Hopkins University"
   location         :
   employer         :
   pubmed           :
