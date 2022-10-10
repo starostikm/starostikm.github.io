@@ -1,6 +1,7 @@
 ---
 layout: archive
 permalink: /research/
+title: "Research"
 ---
 ## <b>Current Research</b>
 <p>PIWI-interacting RNAs (piRNAs) are expressed in a sex-specific manner across many species, including human. Understanding how sex-specific piRNA expression regulates germline gene expression is paramount to advancing our knowledge of piRNA-mediated regulation beyond transposon silencing and improving therapeutic strategies for infertility. Using <i>C. elegans</i> as a model, the my current research will define the regulatory machinery underlying sex-specific piRNA expression and identify endogenous gene targets of piRNAs to provide a deeper understanding of piRNAs in germline development.</p>
