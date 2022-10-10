@@ -2,7 +2,8 @@
 permalink: /academic_service/
 title: "Academic Service"
 ---
-## <b>Research Mentoring</b>
+
+## <p style = "color:DarkSlateBlue;"><b>Research Mentoring</b></p>
 <ul>
   <li>2020, Priya Balamurugan, B.Sc. Molecular & Cellular Biology; Public Health, Johns Hopkins University</li>
 </ul>
