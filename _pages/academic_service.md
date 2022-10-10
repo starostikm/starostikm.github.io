@@ -3,7 +3,10 @@ permalink: /academic_service/
 title: "Academic Service"
 ---
 ## <b>Research Mentoring</b>
-2020, Priya Balamurugan, B.Sc. Molecular & Cellular Biology; Public Health, Johns Hopkins University
+<ul>
+  <li>2020, Priya Balamurugan, B.Sc. Molecular & Cellular Biology; Public Health, Johns Hopkins University</li>
+</ul>
+
 
 ## <b>Teaching Experience</b>
 ### 2020-present, Teaching Assistant, Molecular & Cellular Mechanisms of Reproduction (Fall), Johns Hopkins University (undergraduate elective course, class size ~24)
@@ -33,7 +36,9 @@ title: "Academic Service"
 </ul>
 
 ## <b>Academic & Community Service</b>
-present, 2019-2020, CMDB Graduate Student Mentor, symBIOsis BioBuddies, Johns Hopkins University
-2022, CMDB representative, BioMED Virtual Fair, Johns Hopkins University
-2020, CMDB Career Fridays Committee, Department of Biology, Johns Hopkins University
-2018-2019,  Volunteer, STEM Achievement in Baltimore Elementary Schools, Baltimore, MD
+<ul>
+  <li>present & 2019-2020, CMDB Graduate Student Mentor, symBIOsis BioBuddies, Johns Hopkins University</li>
+  <li>2022, CMDB representative, BioMED Virtual Fair, Johns Hopkins University</li>
+  <li>2020, CMDB Career Fridays Committee, Department of Biology, Johns Hopkins University</li>
+  <li>2018-2019,  Volunteer, STEM Achievement in Baltimore Elementary Schools, Baltimore, MD</li>
+</ul>
