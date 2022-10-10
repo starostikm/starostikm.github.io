@@ -1,5 +1,6 @@
 ---
 permalink: /academic_service/
+title: "Academic Service"
 ---
 ## <b>Research Mentoring</b>
 <ul>
