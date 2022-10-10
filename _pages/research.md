@@ -2,7 +2,10 @@
 layout: archive
 permalink: /research/
 ---
-## <b>Research</b>
+## <b>Current Research</b>
+<p>PIWI-interacting RNAs (piRNAs) are expressed in a sex-specific manner across many species, including human. Understanding how sex-specific piRNA expression regulates germline gene expression is paramount to advancing our knowledge of piRNA-mediated regulation beyond transposon silencing and improving therapeutic strategies for infertility. Using <i>C. elegans</i> as a model, the my current research will define the regulatory machinery underlying sex-specific piRNA expression and identify endogenous gene targets of piRNAs to provide a deeper understanding of piRNAs in germline development.</p>
+
+<p>My long-term research interests involve using computational approaches to better understand genetic, epigenetic, and other regulatory mechanisms that control gene expression within certain cell types, tissues, and organs. I am also interested in developing computational tools to investigate genomic variations and their functional consequences on gene expression in human health and disease.</p>
 
 
 ## <b>Scientific Contributions</b>
