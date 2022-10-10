@@ -1,40 +1,26 @@
 ---
 layout: archive
-title: "Research"
 permalink: /research/
 author_profile: true
-header:
-  og_image: "research/ecdf.png"
 ---
+## Research
 
-My academic research falls into two main areas: understanding the influence of
-geography on actor behavior before, during, and after civil conflict, and
-developing new tools to improve the study of institutions (both formal and
-informal) in peace and conflict. One strand of research in this first area
-explores how the territories that ethnic groups inhabit shape rebel group
-formation and condition their relationship with the state. My interest in
-geography also informs projects on active conflicts including the targeting of
-UN peacekeepers by insurgent groups, civilian victimization after rebel
-territorial conquest, and communal violence in fragile settings.
 
-My other main research agenda uses advanced methods to develop new measures of
-institutions. One project uses Bayesian item response theory to measure the
-strength of peace agreements as a latent variable and free researchers from
-post-treatment bias caused by using the duration of agreements as a proxy for
-their strength. In others, I apply unsupervised learning techniques to over a
-billion observations of product-level international trade data to measure
-economic interdependence and illicit economic exchange.
+## Scientific Contributions
 
-In a new avenue of research, I leverage social media data to explore
-participation in extremist movements across multiple contexts, gaining insight
-into the early stages of radicalization.
+### Computational methods to detect aneuploidy in single-cell data
+In vitro fertilized human embryos show substantial levels of chromosome mis-segregation which leads to aneuploidy, a major cause of pregnancy loss in humans. Aneuploidy arising during mitosis results in mosaic embryos. Prior to our study, estimates of mosaicism in human embryos ranged from 4% to 90%, raising long-standing questions as to the true incidence of mosaicism and its implications in the context of preimplantation genetic testing for aneuploidy. We leveraged single-cell RNA-seq data and developed a method to integrate signatures of gene expression changes and allelic imbalance, improving aneuploidy detection and characterizing patterns of aneuploidy throughout preimplantation development. Specifically, I performed aneuploidy detection based on gene expression. Our work provides an overview of the diverse and widespread nature of mosaic aneuploidies in preimplantation embryos and suggests that low-level mosaicism is a common feature of early human development.
+<ul>
+  <li><b>Starostik MR</b>, Sosina OA, McCoy RC. (2020) Single-cell analysis of human embryos reveals diverse patterns of aneuploidy. <i>Genome Res</i> 30: 814-825. doi: 10.1101/gr.262774.120.</li>
+  <li>•	Donovan D. (July 8, 2020) “Abnormal cells in early-stage embryos might not preclude IVF success”. Johns Hopkins University press release.</li>
+</ul>
 
-<nbsp>
-
-{% include base_path %}
-
-{% assign ordered_pages = site.research | sort:"order_number" %}
-
-{% for post in ordered_pages %}
-  {% include archive-single.html type="grid" %}
-{% endfor %}
+### Insights into human retina development and age-related macular degeneration
+Age-related macular degeneration (AMD) is a complex, neurodegenerative disease that progressively causes irreversible vision loss. Although genome-wide association studies have identified 52 variants associated with AMD susceptibility, mechanisms underlying retina physiology and AMD pathogenesis are poorly understood. We procured post-mortem human retina samples for high-throughput sequencing to (1) determine global gene expression patterns during human retina development, (2) characterize transcriptional changes associated with AMD, and (3) assess expression profiles of genes with rare variants in families with a history of AMD.
+In one project to generate a high-resolution transcriptional profile of early retinal development, I extracted RNA from fetal retina and prepared mRNA-seq libraries for high-throughput sequencing, and developed the bioinformatics pipeline for transcriptome analysis. Together with DNase-seq and immunohistochemical studies, we constructed a comprehensive profile of the developing human retina that researchers can now refer to for molecular staging of stem cell-derived retinal organoid cultures to study and develop therapies for degenerative retinal diseases.
+In another project we performed a large-scale study using genotyping and mRNA-seq to systematically determine how gene expression patterns differ between those with and without AMD, and whether or not that pattern of expression differs between various AMD phenotypes. By expression quantitative trait locus analysis integrating a recent AMD genome-wide association study, we determined candidate target genes at six reported AMD loci. In addition, we detected three novel AMD risk genes using transcriptome-wide association analysis. I was involved in both the experimental and computational aspects of this long-term project. I helped extract RNA from tissue samples, and together with a post-doctoral fellow, prepared over 500 mRNA-seq libraries for high-throughput sequencing. I developed the overall bioinformatics workflow and performed transcriptome analysis. I used the transcriptome profile I constructed from healthy retina in this large-scale study in another project to assess the expression of candidate genes with rare protein-coding variants in several AMD families. Together, our work is a valuable genomic resource and serves as a basis for identifying mechanisms underlying normal and pathologic functions in human retina.
+<ul>
+  <li><sup>*</sup>Ratnapriya R, <sup>*</sup>Acar IE, …<b>Starostik MR</b> (10/19), Othman M, Yashar B, Abecasis GR, Chew EY, Ferrington DA, Hoyng CB, Swaroop A, den Hollander AI. Family-based exome sequencing identifies rare coding variants in age-related macular degeneration. <i>Hum Mol Genet</i>. 29(15): 2022-2034. doi:10.1093/hmg/ddaa057.</li>
+  <li><sup>*</sup>Ratnapriya R, <sup>*</sup>Sosina OA, <sup>*</sup><b>Starostik MR</b>, Kwicklis M, Kapphahn RJ, Fritsche LG, Walton A, Arvanitis M, Gieser L, Pietraszkiewicz A, Montezuma SR, Chew EY, Abecasis GR, Ferrington DA, Chatterjee N, Swaroop A. Retinal transcriptome and eQTL analyses identify genes associated with age-related macular degeneration. <i>Nat Genet</i>. 51: 606-610. doi:10.1038/s41588-019-0351-9.</li>
+  <li><sup>*</sup>Hoshino A, <sup>*</sup>Ratnapriya R, Brooks MJ, Chaitankar V, Wilken MS, Zhang C, <b>Starostik MR</b>, Gieser L, La Torre A, Nishio M, Bates O, Walton A, Bermingham-McDonogh O, Glass IA, Wong ROL, Swaroop A, Reh TA. Molecular anatomy of the developing human retina. <i>Dev Cell</i> 43(6): 763-779.e4. doi:10.1016/j.devcel.2017.10.029.</li>
+</ul>
