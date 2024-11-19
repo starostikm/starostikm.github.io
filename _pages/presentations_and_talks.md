@@ -2,11 +2,11 @@
 permalink: /presentations_and_talks/
 title: "Presentations"
 ---
-<font size="6"><p><b><u>Talks</u></b></p></font>
+<font size="4"><p><b><u>Talks</u></b></p></font>
 <p><b>Johns Hopkins University CMDB Program Retreat.</b> Harpers Ferry, WV 2022<br>
 A computational approach to prioritize functionally relevant endogenous mRNA targets of piRNAs in <i>C. elegans</i>.</p>
 
-<p><b><u>Poster Presentations</u></b></p>
+<font size="4"><p><b><u>Poster Presentations</u></b></p></font>
 <p><b>Cold Spring Harbor Laboratory Biology of Genomes.</b> Cold Spring Harbor, NY 2023<br>
 A machine learning approach to prioritize functionally relevant endogenous mRNA targets of piRNAs in <i>C.
 elegans</i>.</p>
