@@ -4,7 +4,12 @@ title: "Academic Service"
 ---
 ## <b>Research Mentoring</b>
 <ul>
-  <li>2020, Priya Balamurugan, B.Sc. Molecular & Cellular Biology; Public Health, Johns Hopkins University</li>
+  <li> Sukriti Gupta, B.S. Biology; Applied Mathematics & Statistics, Johns Hopkins University 2024-present<br>
+    <i>Project</i>: Multi-ancestry fine-mapping to improve identification of causual variants</li>
+  <li>Tabor Roderiques, B.S. Biology, Johns Hopkins University 2022-2023<br>
+    <i>Project</i>: Investigating changes in piRNA and 22G-RNA expression in <i>csr-1</i> mutants</li>
+  <li>Priya Balamurugan, B.Sc. Molecular & Cellular Biology; Public Health, Johns Hopkins University 2020<br>
+  <i>Project</i>: Curation of factors required for RNA interference and various small RNA pathways from published functional genomic screens in <i>C. elegans</i></li>
 </ul>
 
 
