@@ -3,47 +3,32 @@ permalink: /academic_service/
 title: "Academic Service"
 ---
 ## <b>Research Mentoring</b>
-<ul>
-  <li> Sukriti Gupta, B.S. Biology; Applied Mathematics & Statistics, Johns Hopkins University 2024-present<br>
-    <i>Project</i>: Multi-ancestry fine-mapping to improve identification of causual variants</li>
-  <li>Tabor Roderiques, B.S. Biology, Johns Hopkins University 2022-2023<br>
-    <i>Project</i>: Investigating changes in piRNA and 22G-RNA expression in <i>csr-1</i> mutants</li>
-  <li>Priya Balamurugan, B.Sc. Molecular & Cellular Biology; Public Health, Johns Hopkins University 2020<br>
-  <i>Project</i>: Curation of factors required for RNA interference and various small RNA pathways from published functional genomic screens in <i>C. elegans</i></li>
-</ul>
+  <p>Sukriti Gupta, B.S. Biology; Applied Mathematics & Statistics, Johns Hopkins University 2024-present<br>
+    <i>Project</i>: Multi-ancestry fine-mapping to improve identification of causual variants</p>
+  <p>Tabor Roderiques, B.S. Biology, Johns Hopkins University 2022-2023<br>
+    <i>Project</i>: Investigating changes in piRNA and 22G-RNA expression in <i>csr-1</i> mutants</p>
+  <p>Priya Balamurugan, B.Sc. Molecular & Cellular Biology; Public Health, Johns Hopkins University 2020<br>
+    <i>Project</i>: Curation of factors required for RNA interference and various small RNA pathways from published functional genomic screens in <i>C. elegans</i></p>
 
 
 ## <b>Teaching Experience</b>
-### 2020-present, Teaching Assistant, Molecular & Cellular Mechanisms of Reproduction (Fall), Johns Hopkins University (undergraduate elective course, class size ~24)
-<ul>
-  <li>Participated in weekly journal discussions</li>
-  <li>Managed Blackboard, including course content, lecture recordings, and grades</li>
-</ul>
+<p><b>Teaching Assistant</b> | <i>Johns Hopkins University</i> 2021, 2023<br>
+AS.020.337 Stem Cells and the Biology of Aging and Disease (Spring; undergraduate; 24 students)</p>
+<p><b>Guest Lecturer</b> | <i>Johns Hopkins University</i> 2021<br>
+AS.020.364 Molecular & Cellular Mechanisms of Reproduction (Fall; undergraduate; 24 students)</p>
+<p><b>Teaching Assistant</b> | <i>Johns Hopkins University</i> 2020-2022<br>
+AS.020.364 Molecular & Cellular Mechanisms of Reproduction (Fall; undergraduate; 24 students)</p>
+<p><b>Teaching Assistant</b> | <i>Johns Hopkins University</i> 2020-2022<br>
+AS.250.351 Reproductive Physiology (Fall; undergraduate; 100-130 students)</p>
+<p><b>Teaching Assistant</b> | <i>Johns Hopkins University</i> 2019-2020<br>
+AS.020.315 Biochemistry Project Lab (undergraduate; 18 students)</p>
 
-### 2020-present, Teaching Assistant, Reproductive Physiology (Fall), Johns Hopkins University (undergraduate elective course, class size ~140)
-<ul>
-  <li>Assisted instructor with exam writing and grading</li>
-  <li>Managed Zoom and Blackboard, including course content, lecture recordings, and grades</li>
-</ul>
-
-### 2021, Guest Lecturer, Molecular & Cellular Mechanisms of Reproduction (Fall, 2 hrs), Johns Hopkins University
-
-### 2021, Teaching Assistant, Stem Cells & the Biology of Aging & Disease (Spring), Johns Hopkins University (undergraduate elective course, class size 100)
-<ul>
-  <li>Assisted instructor with exam writing and grading</li>
-  <li>Managed Zoom and Blackboard, including course content, lecture recordings, and grades</li>
-</ul>
-
-### 2019-2020, Teaching Assistant, Biochemistry Project Lab, Johns Hopkins University (undergraduate lab, class size 18)
-<ul>
-  <li>Supervised lab activities and assisted students as needed</li>
-  <li>Graded quizzes and lab reports, and maintained academic records</li>
-</ul>
 
 ## <b>Academic & Community Service</b>
-<ul>
-  <li>present & 2019-2020, CMDB Graduate Student Mentor, symBIOsis BioBuddies, Johns Hopkins University</li>
-  <li>2022, CMDB representative, BioMED Virtual Fair, Johns Hopkins University</li>
-  <li>2020, CMDB Career Fridays Committee, Department of Biology, Johns Hopkins University</li>
-  <li>2018-2019,  Volunteer, STEM Achievement in Baltimore Elementary Schools, Baltimore, MD</li>
-</ul>
+<p><b>Session Moderator</b> | <i>American Society of Human Genetics, Denver, CO</i> 2024<br>
+Session 82 - Read All about It: Transcriptomic Insights from New Sequencing Technologies</p>
+<p><b>Ad Hoc Reviewer</b> | <i>Provost’s Undergraduate Research Award, Johns Hopkins University</i> 2024<br></p>
+<p><b>CMDB Representative</b> | <i>BioMED Virtual Fair, Johns Hopkins University</i> 2022<br></p>
+<p><b>BioBuddies Mentor</b> | <i>CMDB symBIOsis, Johns Hopkins University</i> 2019-2020, 2022-2023<br></p>
+<p><b>CMDB Career Fridays Committee</b> | <i>Department of Biology, Johns Hopkins University</i> 2020<br></p>
+<p><b>Volunteer</b> | <i>STEM Achievement in Baltimore Elementary Schools</i> 2018-2019<br></p>
