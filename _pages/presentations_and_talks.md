@@ -1,9 +1,24 @@
 ---
 permalink: /presentations_and_talks/
-title: "Presentations & Talks"
+title: "Presentations"
 ---
-<p><b>Starostik MR</b>, Ratnapriya R, Sosina OA, Kapphahn RJ, Walton A, Pietraszkiewicz A, Brooks MJ, Montezuma SR, Fritsche LG, Chew EY, Chatterjee N, Abecasis GR, Swaroop A. (2017). Comparative transcriptomic profile of adult human retina. <i>NIH Post-baccalaureate Poster Day</i>. Bethesda, MD</p>
-<p><b>Starostik MR</b>, Ratnapriya R, Kapphahn RJ, Walton A, Pietraszkiewicz A, Brooks MJ, Montezuma SR, Fritsche LG, Abecasis GR, Ferrington DA, Swaroop A. (2017). Reference transcriptome landscape of adult human retina. <i>The Association for Research in Vision & Ophthalmology</i>. Baltimore, MD</p>
-<p><b>Starostik MR</b>, Ratnapriya R, Kapphahn RJ, Walton A, Pietraszkiewicz A, Brooks MJ, Montezuma SR, Fritsche LG, Abecasis GR, Ferrington DA, Swaroop A. (2016). Reference transcriptome landscape of adult human retina. <i>NIH Focus on Fellows</i>. Bethesda, MD</p>
-<p><b>Starostik MR</b>, Ratnapriya R, Swaroop A. (2015). Genetic and non-genetic risk factors associated with age-related macular degeneration. <i>NIH Summer Research Program</i>. Bethesda, MD</p>
-<p><b>Starostik MR</b>, Ratnapriya R, Swaroop A. (2015). Whole transcriptome sequencing of human inferior retina. <i>Georgetown University Research Symposium</i>. Washington, D.C.</p>
+<p><b><u>Oral Presentations</u></b>/<p>
+<p><b>Johns Hopkins University CMDB Program Retreat.</b> Harpers Ferry, WV 2022
+A computational approach to prioritize functionally relevant endogenous mRNA targets of piRNAs in C. elegans.</p>
+
+<p><b><u>Poster Presentations</u></b></p>
+<p><b>Cold Spring Harbor Laboratory Biology of Genomes.</b> Cold Spring Harbor, NY 2023
+A machine learning approach to prioritize functionally relevant endogenous mRNA targets of piRNAs in <i>C.
+elegans</i>.</p>
+<p><b>Cold Spring Harbor Laboratory Biological Data Science.</b> Cold Spring Harbor, NY 2022
+A machine learning approach to prioritize functionally relevant endogenous mRNA targets of piRNAs in <i>C. elegans</i>.</p>
+<p><b>National Institutes of Health Post-baccalaureate Poster Day.</b> Bethesda, MD 2017
+Comparative transcriptomic profile of adult human retina.</p>
+<p><b>The Association for Research in Vision & Ophthalmology.</b> Baltimore, MD 2017
+Reference transcriptome landscape of adult human retina.</p>
+<p><b>National Institutes of Health Focus on Fellows.</b> Bethesda, MD 2016
+Reference transcriptome landscape of adult human retina.</p>
+<p><b>National Institutes of Health Summer Research Program.</b> Bethesda, MD 2015
+Genetic and non-genetic risk factors associated with age-related macular degeneration.</p>
+<p><b>Georgetown University Research Symposium.</b> Washington, D.C. 2015
+Whole transcriptome sequencing of human inferior retina.</p>
