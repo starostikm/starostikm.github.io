@@ -2,7 +2,7 @@
 permalink: /presentations_and_talks/
 title: "Presentations"
 ---
-<font size="10"><p><b><u>Oral</u></b></p></font>
+<font size="6"><p><b><u>Oral</u></b></p></font>
 <p><b>Johns Hopkins University CMDB Program Retreat.</b> Harpers Ferry, WV 2022<br>
 A computational approach to prioritize functionally relevant endogenous mRNA targets of piRNAs in <i>C. elegans</i>.</p>
 
